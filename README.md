@@ -18,7 +18,8 @@
 
 #### 🛠 技术栈 | Technology Stack
 <br/>
-Java 大数据 Python Go C# Shell
+
+**`Java`  `大数据`  `Python`  `Go`  `C#`  `Shell`**
 
 <br/><br/>
 
